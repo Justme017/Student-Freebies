@@ -186,6 +186,7 @@
 | **Travis CI** (via SDP) | 🔄 Free private builds while student | 🔄 Renewable | 🐙 GitHub SDP | Account | CI/CD for private repos | [🔗](https://education.github.com/pack) |
 | **Doppler** (via SDP) | 🔄 Free Team subscription for secrets management | 🔄 Renewable | 🐙 GitHub SDP | Account | Active student status required | [🔗](https://education.github.com/pack) |
 | **Arduino Cloud** (via SDP) | ⏳ Free Arduino Cloud for **6 months** + hardware discounts | ⏳ 6 months | 🐙 GitHub SDP | Account | IoT platform | [🔗](https://education.github.com/pack) |
+| **Google Antigravity** | 🔄 Free AI-powered agentic IDE — agent-first development | 🔄 Free (public preview) | 🌐 Open | Google account | Free for all developers during preview | [🔗](https://antigravity.google/) |
 
 </details>
 
