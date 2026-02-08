@@ -3,7 +3,7 @@
 # 🎓 Student-Only AI & Cloud Benefits
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--08-blue?style=for-the-badge)
-![Offers](https://img.shields.io/badge/Verified%20Offers-40+-brightgreen?style=for-the-badge)
+![Offers](https://img.shields.io/badge/Verified%20Offers-50+-brightgreen?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
@@ -39,6 +39,8 @@
 - [🗺️ Regional Notes](#%EF%B8%8F-regional-notes)
 - [❓ Unverified / Needs Confirmation](#-unverified--needs-confirmation)
 - [📝 Changelog](#-changelog)
+- [🧠 Pro Hacks](#-pro-hacks)
+- [🔗 Community Lists & Resources](#-community-lists--resources)
 
 </details>
 
@@ -90,8 +92,15 @@
 | Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
 |:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
 | **GitHub Copilot Pro** | 🔄 Copilot Pro free while student | 🔄 Renewable | 🐙 GitHub SDP | GitHub account; no card | Personal/student use | [🔗](https://education.github.com/pack) |
+| **Google Gemini Advanced** | ⏳ Free Google AI Pro (Gemini Advanced) through finals 2026 | ⏳ Until Apr 30 2026 | 🎓 Personal Gmail + edu verification | Enrolled at eligible higher-ed institution | 🇺🇸🇨🇦 US/Canada only; value ~$300 | [🔗](https://gemini.google/students/) |
+| **ChatGPT Plus** (OpenAI) | ⏳ Free Plus ($20/mo value) — seasonal student pilots via SheerID | ⏳ Seasonal (2 months) | 🛡️ SheerID | Full/part-time college student | 🇺🇸🇨🇦 US/Canada; past pilot ended May 2025; future rounds expected | [🔗](https://openai.com/chatgpt/pricing/) |
+| **Claude for Education** (Anthropic) | 🔄 Institutional access with Learning mode + Student Builders API credits | 🔄 While enrolled | 🎓 Institution must adopt | Enrolled at participating university | Institutional program; students can also apply for free API credits | [🔗](https://www.anthropic.com/solutions/education) |
+| **Perplexity Pro** | ⏳ Free Pro for **1 year** — AI search with citations | ⏳ 1 year | 🎓 .edu or student ID | Student email or ID card upload | 🇺🇸 US students primarily; unlimited Pro searches, file uploads | [🔗](https://www.perplexity.ai/students) |
+| **Microsoft Copilot** (M365) | ⏳ Free M365 Personal + Copilot for **3 months** (or 12 mo with edu license) | ⏳ 3–12 months | 🎓 School/work account | College student or edu license (A1/A3/A5) | 🇺🇸 US students for 3-mo trial; edu license users get Copilot Chat free globally | [🔗](https://www.microsoft.com/en-us/education) |
+| **Cursor Pro** | ⏳ Free Cursor Pro for **1 year** — AI code editor | ⏳ 1 year | 🛡️ SheerID + .edu email | Student email | AI-powered code editor; advanced models included | [🔗](https://www.cursor.com/students) |
+| **Grammarly** | 🔄 Free AI writing assistant for students — grammar, citations, AI agents | 🔄 While enrolled | 🎓 Institution or student email | Student or institution-based | Authorship tracking, plagiarism check, AI citation | [🔗](https://www.grammarly.com/students) |
+| **Notion AI** (via SDP) | 🔄 Education Plus plan free + AI responses | 🔄 Renewable | 🐙 GitHub SDP / 🎓 .edu | Account | Plus plan features + unlimited pages & blocks | [🔗](https://www.notion.com/product/notion-for-education) |
 | **JetBrains AI Pro** | 🔄 AI Pro trial with free IDEs | 🔄 Renewable annually | 🎓 🛡️ 🐙 | JetBrains account | Non-commercial; features may differ from paid | [🔗](https://www.jetbrains.com/community/education/#students) |
-| **Notion AI** (via SDP) | 🔄 Education plan + additional AI responses | 🔄 Renewable | 🐙 GitHub SDP | Account | Plus plan features + sharing/collab | [🔗](https://education.github.com/pack) |
 
 </details>
 
@@ -242,7 +251,7 @@
 
 | Region | Status |
 |:-------|:-------|
-| 🇺🇸 **North America** (US/Canada) | No additional student-only offers beyond Global. Regional service availability applies (e.g., Azure OpenAI regions). |
+| 🇺🇸 **North America** (US/Canada) | **ChatGPT Plus** seasonal pilot (US/CA), **Gemini Advanced** free through 2026 (US/CA), **Perplexity Pro** 1 yr free (US), **Microsoft Copilot** 3-mo trial (US), **Cursor Pro** 1 yr free (US). Regional service availability applies. |
 | 🌎 **Latin America** | No additional student-only offers confirmed beyond Global. |
 | 🇪🇺 **Europe + UK** | No additional student-only offers confirmed beyond Global. |
 | 🌍 **Middle East** | No additional student-only offers confirmed beyond Global. |
@@ -264,7 +273,7 @@
 
 | Service | Status | Notes |
 |:--------|:------:|:------|
-| Google "Gemini for Students" | 🔍 Investigating | Official page not found; confirm before listing |
+| ~~Google Gemini for Students~~ | ✅ Verified | **Moved to [AI/LLM Assistants](#-aillm-assistants--study-tools)** — free through April 2026 |
 | Cloudflare for Students | 🔍 Investigating | .edu/US-only claim — official page not found |
 | AWS Educate | ⚠️ Partially verified | [Page exists](https://aws.amazon.com/education/awseducate/) — content + credits, amounts unclear |
 | Alibaba Cloud Education | ⚠️ Partially verified | [Page exists](https://www.alibabacloud.com/campaign/education) — free servers + certs, terms unverified |
@@ -285,6 +294,21 @@
 |:-----|:-------|
 | **2026-02-08** | Initial curated tables and unverified watchlist |
 | **2026-02-08** | Added 25+ offers from GitHub SDP, community repos; new Security, Domains sections |
+| **2026-02-08** | Added 8 AI tool offers: Gemini Advanced, ChatGPT Plus, Claude for Education, Perplexity Pro, Microsoft Copilot, Cursor Pro, Grammarly; moved Gemini from unverified; updated regional notes |
+
+---
+
+## 🧠 Pro Hacks
+
+> **Stop paying full price.** Before you spend a single dollar, try these moves:
+
+| # | Hack | Why It Works |
+|:-:|:-----|:-------------|
+| 🥇 | **Search `<tool-name> /education` or `<tool-name> student offer`** before paying for anything. Almost every major SaaS has a hidden student page. | Most companies offer 50–100 % off or full free access — they just don't advertise it loudly. |
+| 🥈 | **No student plan? Check [openalternative.co](https://openalternative.co)** — a curated directory of open-source alternatives to paid software. | Why pay when an OSS tool does the same job? Bonus: you learn real-world tools companies actually use. |
+| 🥉 | **For AI API access, use [OpenRouter](https://openrouter.ai)** — one API key, 100+ models (GPT-4o, Claude, Gemini, Llama, Mistral…). | Pay-per-token with no subscriptions. Many models have **free tiers**. Perfect for student projects & hackathons. |
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
 
 ---
 
@@ -307,8 +331,10 @@
 
 [![Contribute](https://img.shields.io/badge/Contribute-Add%20an%20Offer-blue?style=for-the-badge)](CONTRIBUTING.md)
 
-**Made with ❤️ for students everywhere**
+---
 
-⭐ Star this repo if you found it helpful!
+**Made by [Shubham Mehta](https://github.com/Justme017)** &nbsp;•&nbsp; *By a student, for students* 🎓
+
+⭐ Star this repo if it saved you money!
 
 </div>
