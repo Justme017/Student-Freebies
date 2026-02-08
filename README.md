@@ -13,7 +13,7 @@
 
 [<kbd> <br> 🚀 Get Started <br> </kbd>](#-how-to-use) &nbsp;&nbsp;
 [<kbd> <br> 🌍 Global Offers <br> </kbd>](#-global-offers) &nbsp;&nbsp;
-[<kbd> <br> 🤝 Contribute <br> </kbd>](CONTRIBUTING.md)
+[<kbd> <br> 🤝 Contribute <br> </kbd>](https://github.com/Justme017/New-folder/issues/new/choose)
 
 </div>
 
@@ -360,7 +360,7 @@
 
 ### 💡 Know a student offer we're missing?
 
-[![Contribute](https://img.shields.io/badge/Contribute-Add%20an%20Offer-blue?style=for-the-badge)](CONTRIBUTING.md)
+[![Suggest an Offer](https://img.shields.io/badge/Suggest_an_Offer-Open_Issue-blue?style=for-the-badge)](https://github.com/Justme017/New-folder/issues/new/choose)
 
 ---
 
